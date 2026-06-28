@@ -1,0 +1,10 @@
+
+.config/
+sample_data/
+__pycache__/
+*.pyc
+.env
+venv/
+*.bin
+*.pt
+.ipynb_checkpoints/
