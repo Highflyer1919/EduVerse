@@ -1,0 +1,21 @@
+# Agent Orchestration
+crewai>=0.28.0
+litellm>=1.0.0
+
+# Interface
+gradio>=4.0.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# LLM / Model Integration
+huggingface-hub>=0.20.0
+transformers>=4.35.0
+
+# Evaluation
+scikit-learn>=1.3.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
